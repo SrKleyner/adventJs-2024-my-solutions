@@ -1,10 +1,10 @@
-![adventJs-logo](resources\logo-adventJs-By-midudev.webp)
+![adventJs-logo](https://raw.githubusercontent.com/SrKleyner/adventJs-2024-my-solutions/refs/heads/main/resources/logo-adventJs-By-midudev.webp)
 
 # Practicando lógica de programación.
 
-## ¿Que es el **adventJs**?
+## ¿Que es el [**adventJs**](https://adventjs.dev/es "AdventJs")?
 
-Es un evento creado por [Miguel Angel Duran](https://github.com/midudev), Desde 2021 se ha venido realizando año tras año y se ha convertido en un evento anual muy esperado.Cada año, midudev prepara nuevos desafíos y se asegura de que la experiencia sea cada vez más enriquecedora para los participantes.
+Es un evento creado por [Miguel Angel Duran](https://github.com/midudev "midudev"), Desde 2021 se ha venido realizando año tras año y se ha convertido en un evento anual muy esperado.Cada año, midudev prepara nuevos desafíos y se asegura de que la experiencia sea cada vez más enriquecedora para los participantes.
 
 Cada día, desde el 1 de diciembre hasta el 25 de diciembre, se publica un nuevo desafío de programación.
 
@@ -16,8 +16,8 @@ La idea central de AdventJS es proporcionar una forma entretenida y educativa de
 
 Además, AdventJS promueve un sentido de comunidad, ya que los participantes comparten sus soluciones, discuten diferentes enfoques y se ayudan mutuamente.
 
-## En resumen
-AdventJS es una iniciativa valiosa para cualquier persona interesada en aprender y mejorar sus habilidades de programacion. Su combinación de desafíos interesantes, ambiente festivo y espíritu de comunidad lo convierte en un evento único y muy apreciado por la comunidad de desarrolladores.
+## Resumen
+El adventJS de Midudev es una iniciativa valiosa para cualquier persona interesada en aprender y mejorar sus habilidades de programacion. Su combinación de desafíos interesantes, ambiente festivo y espíritu de comunidad lo convierte en un evento único y muy apreciado por la comunidad de desarrolladores.
 
 ## La idea de este repositorio
 
@@ -25,7 +25,9 @@ La idea principal de este repositorio es subir mis respuestas a los desafíos pl
 
 ## Retos
 
-|Nro | Reto                   |Dificultad  | Puntuación|
-----------------------------------------------
-|01  |¡Primer Regalo Repetido!|Facil       |⭐⭐⭐⭐⭐|
+|Nro    |Reto   |Dificultad |Puntuación |
+|:-----:|:-----:|:---------:|:---------:|
+|01 |¡Primer Regalo Repetido!   |Facil |⭐⭐⭐⭐⭐  |
+
+
 
