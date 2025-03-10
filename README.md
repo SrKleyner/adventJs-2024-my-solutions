@@ -1,4 +1,4 @@
-![adventJs-logo](resources\logo-adventJs-By-midudev.webp)
+![adventJs-logo](https://raw.githubusercontent.com/SrKleyner/adventJs-2024-my-solutions/refs/heads/main/resources/logo-adventJs-By-midudev.webp)
 
 # Practicando lógica de programación.
 
