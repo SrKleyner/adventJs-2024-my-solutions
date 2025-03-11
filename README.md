@@ -21,13 +21,12 @@ El adventJS de Midudev es una iniciativa valiosa para cualquier persona interesa
 
 ## La idea de este repositorio
 
-La idea principal de este repositorio es subir mis respuestas a los desafíos planteados este año e ir mejorando mi logica de programación ademas de usarlo para aprender nuevas herramientas. 
+La idea principal de este repositorio es subir mis respuestas a los desafíos planteados este año, e ir mejorando mi lógica de programación. Además, usarlo para aprender nuevas herramientas. 
 
 ## Retos
 
-|Nro    |Reto   |Dificultad |Puntuación |
-|:-----:|:-----:|:---------:|:---------:|
-|01 |¡Primer Regalo Repetido!   |Facil |⭐⭐⭐⭐⭐  |
-
+|Nro    |Reto   |Dificultad |Solución|Puntuación |
+|:-----:|:-----:|:---------:|:------:|:---------:|
+|01 |[¡Primer Regalo Repetido!](https://adventjs.dev/es/challenges/2024/1 "Reto 01" )   |Facil |Solución|⭐⭐⭐⭐⭐  |
 
 
