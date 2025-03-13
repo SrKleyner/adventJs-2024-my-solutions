@@ -107,7 +107,7 @@ const framedNames = names.map(name => {
 });
 ```
 
-Explicación de los métodos utilizados:
+####Explicación de los métodos utilizados:
 
 #### map():
 
@@ -118,32 +118,26 @@ en este caso lo vemos asi:
 ```js
 names.map(name => { ... })
 ```
->[!NOTA]
->Para cada name en el array, la función flecha dentro de map() se ejecuta, para transformar cada elemento del array names en un nuevo elemento.
-
-Es ideal para transformar cada elemento de un array sin modificar el array original.
-
+>[!NOTE]
+>Para cada `name` en el array, la función flecha dentro de `map()` se ejecuta, transformando cada elemento del array `names` en un nuevo elemento. `map()` Es ideal para transformar cada elemento de un array, sin modificar el array original.
 
 #### repeat():
 
-Para entenderlo con mas claridad lo explicamos con nuestro caso
+>[!NOTE] 
+>Para entenderlo con mas claridad: el método `repeat()` crea una cadena que **repite** tantas veces se le especifique en su argumento la cadena que le llama. Por ejemplo, `"*".repeat(3)` regresa "\***" (3 asteriscos).
+>
+>
 ```js
 const spaces = ' '.repeat(longest - name.length);
 ```
 
 En donde `longest - name.length`,  Calcula la diferencia entre la longitud del nombre más largo y la longitud del nombre actual. **Esta diferencia representa la cantidad de espacios adicionales necesarios.**
 
->[!NOTA]El método repeat() crea una cadena que repite tantas veces se le escifique en su argumento la cadena que le llama. Por ejemplo, "\*".repeat(3) regresa "\***".
-
-para nuestro ejemplo estaria devolviendo el la cantidad de espacios que correspondan al resultado de evaluar `longest - name.length`
-
-Este resultado que nos otorga `repeat()` se almacena en la variable spaces. 
+para nuestro ejemplo estaria devolviendo la cantidad de espacios en blanco que corresponden al resultado de evaluar `longest - name.length` y los almacena en la variable `spaces`. 
 
 ---
 
-Para terminar con la construccion del marco de nombres solicitados se construye la línea del marco utilizando plantillas de cadena (template literals). 
-
-retornando el resultado del método `map()` de la siguiente manera
+Para terminar con la construccion del marco de nombres solicitados se construye la línea del marco utilizando plantillas de cadena (template literals), retornando el resultado del método `map()` de la siguiente manera
  
  ```js
  return `* ${name}${spaces} *\n`
