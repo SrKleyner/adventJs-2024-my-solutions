@@ -8,10 +8,10 @@ function createFrame(names) {
     return `* ${name}${spaces} *\n`;
   });
   const frame = "*".repeat(longest + 4);
-  framedNames.push(frame);
-  framedNames.unshift(`${frame}\n`);
+  //framedNames.push(frame);
+  //framedNames.unshift(`${frame}\n`);
 
-  return framedNames.join("");
+  return `${frame}\n` + framedNames.join('') + frame;
 }
 
 console.log(createFrame(["Hello", "World", "in", "a", "frame"]));
