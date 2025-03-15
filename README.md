@@ -31,6 +31,7 @@ La idea principal de este repositorio es subir mis respuestas a los desafíos pl
 |02 |[Enmarcando Nombres](https://adventjs.dev/es/challenges/2024/2 "Reto 02" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/02-enmarcando-nombres)|⭐⭐⭐⭐  |
 |03 |[Organizando el inventario](https://adventjs.dev/es/challenges/2024/3 "Reto 03" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/03-organizando%20el%20inventario)|⭐⭐⭐⭐  |
 |04 |[Decorando el arbol de Navidad](https://adventjs.dev/es/challenges/2024/4 "Reto 04" )   |🟠Medium |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/04-decorando-el-arbol-de-navidad)|⭐⭐⭐⭐⭐  |
+|05 |[Emparejando Botas](https://adventjs.dev/es/challenges/2024/4 "Reto 05" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/05-emparejando-botas)|⭐⭐⭐⭐⭐  |
 
 
 
