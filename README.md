@@ -27,12 +27,19 @@ La idea principal de este repositorio es subir mis respuestas a los desafíos pl
 
 |Nro    |Reto   |Dificultad |Solución|Puntuación |
 |:-----:|:-----:|:---------:|:------:|:---------:|
-|01 |[¡Primer Regalo Repetido!](https://adventjs.dev/es/challenges/2024/1 "Reto 01" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/01-primer-regalo-repetido)|⭐⭐⭐⭐⭐  |
-|02 |[Enmarcando Nombres](https://adventjs.dev/es/challenges/2024/2 "Reto 02" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/02-enmarcando-nombres)|⭐⭐⭐⭐  |
-|03 |[Organizando el inventario](https://adventjs.dev/es/challenges/2024/3 "Reto 03" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/03-organizando%20el%20inventario)|⭐⭐⭐⭐  |
-|04 |[Decorando el arbol de Navidad](https://adventjs.dev/es/challenges/2024/4 "Reto 04" )   |🟠Medium |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/04-decorando-el-arbol-de-navidad)|⭐⭐⭐⭐⭐  |
-|05 |[Emparejando Botas](https://adventjs.dev/es/challenges/2024/4 "Reto 05" )   |🟢Facil |[Solución](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/05-emparejando-botas)|⭐⭐⭐⭐⭐  |
+|01 |[¡Primer Regalo Repetido!](https://adventjs.dev/es/challenges/2024/1 "Reto 01" )   |🟩|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/01-primer-regalo-repetido)|⭐⭐⭐⭐⭐  |
+|02 |[Enmarcando Nombres](https://adventjs.dev/es/challenges/2024/2 "Reto 02" )   |🟩|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/02-enmarcando-nombres)|⭐⭐⭐⭐  |
+|03 |[Organizando el inventario](https://adventjs.dev/es/challenges/2024/3 "Reto 03" )   |🟩|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/03-organizando%20el%20inventario)|⭐⭐⭐⭐  |
+|04 |[Decorando el arbol de Navidad](https://adventjs.dev/es/challenges/2024/4 "Reto 04" )   |🟨|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/04-decorando-el-arbol-de-navidad)|⭐⭐⭐⭐⭐  |
+|05 |[Emparejando Botas](https://adventjs.dev/es/challenges/2024/5 "Reto 05" )   |🟩|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/05-emparejando-botas)|⭐⭐⭐⭐⭐  |
+|06 |[Regalo dentro de la caja](https://adventjs.dev/es/challenges/2024/6 "Reto 06" )   |🟨|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/tree/main/06-regalo-dentro-de-la-caja)|⭐⭐⭐⭐⭐  |
+|07 |[El ataque del Grinch](https://adventjs.dev/es/challenges/2024/7 "Reto 07" )   |🟨|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/blob/main/07-el-ataque-del-grinch/01-el-ataque-del-grinch.js)|⭐⭐⭐⭐⭐  |
+|08 |[La carrera de renos](https://adventjs.dev/es/challenges/2024/8 "Reto 08" )   |🟩|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/blob/main/08-la-carrera-de-renos/01-la-carrera-de-renos.js)|⭐⭐⭐⭐⭐  |
+|09 |[El tren magico](https://adventjs.dev/es/challenges/2024/4 "Reto 09" )   |🟨|[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrKleyner/adventJs-2024-my-solutions/blob/main/09-el-tren-magico/01-el-tren-magico.js)|⭐⭐⭐⭐⭐  |
 
 
 
-
+### Leyenda
+|facil   |Medio   |Dificil |
+|:-----:|:-----:|:---------:|
+| 🟩 | 🟨 |🟥 |
