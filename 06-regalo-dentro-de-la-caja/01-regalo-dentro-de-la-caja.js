@@ -1,11 +1,7 @@
 function inBox(box) {
-  const boxSize = box.length;
   const boxWidth = box[0].length;
-  const gift = box.join('').indexOf('*');
-  const giftUbicationY = ~~(gift / boxWidth);
+  const gift = box.slice(1, box.length - 1).join('').indexOf('*');
   const giftUbicationX = (gift % boxWidth);
-  if (giftUbicationY > 0 && giftUbicationY < boxSize - 1 && giftUbicationX > 0 && giftUbicationX < boxWidth - 1) {
-    return true;
-  }
-  return false;
+  
+  return (giftUbicationX > 0 && giftUbicationX < boxWidth - 1);
 }
