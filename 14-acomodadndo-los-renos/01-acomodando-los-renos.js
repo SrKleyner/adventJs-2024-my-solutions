@@ -1,4 +1,10 @@
 function minMovesToStables(reindeer, stables) {
-  // Code here
-  return 0
+  const ordenatedReinder = reindeer.sort((a, b) => a - b);
+  const ordenatedStables = stables.sort((a, b) => a - b);
+  return ordenatedStables.reduce(
+    (acum, current, index) =>
+      (acum += Math.abs(current - ordenatedReinder[index])),
+    0
+  );
 }
+
